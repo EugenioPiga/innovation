@@ -1,0 +1,5 @@
+series_id,metric_name,description
+OEUN000000000000011301204,bls_oes_113012_204,Occupational Employment and Wage Statistics series (user-overridable)
+OEUN000000000000011301208,bls_oes_113012_208,Occupational Employment and Wage Statistics series (user-overridable)
+OEUN000000000000011301212,bls_oes_113012_212,Occupational Employment and Wage Statistics series (user-overridable)
+OEUN000000000000000000001,bls_oes_total_employment,Occupational Employment and Wage Statistics series (user-overridable)
