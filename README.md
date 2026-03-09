@@ -63,6 +63,15 @@ firm-patent-enrich \
   --bea-api-key YOUR_BEA_KEY
 ```
 
+### Create One Combined Patent-Level File
+
+```bash
+firm-patent-enrich \
+  --data-dir ..\compustat-patents\data \
+  --combined-static-output output\patent_static_all.csv \
+  --combine-static-only
+```
+
 ## Output files
 
 - `output/firm_year_enriched.csv`

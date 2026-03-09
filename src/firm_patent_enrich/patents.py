@@ -26,6 +26,25 @@ def discover_static_files(data_dir: Path) -> list[Path]:
     return tranche_files
 
 
+def write_combined_static_file(data_dir: Path, output_path: Path, chunksize: int = 500_000) -> dict[str, int]:
+    files = discover_static_files(data_dir)
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+    if output_path.exists():
+        output_path.unlink()
+
+    wrote_header = False
+    total_rows = 0
+    total_files = 0
+    for path in files:
+        for chunk in pd.read_csv(path, chunksize=chunksize, dtype={"gvkeyUO": "string", "gvkeyFR": "string"}):
+            chunk.to_csv(output_path, mode="a", header=not wrote_header, index=False)
+            wrote_header = True
+            total_rows += int(len(chunk))
+        total_files += 1
+
+    return {"files": total_files, "rows": total_rows}
+
+
 def load_static_patents(data_dir: Path) -> pd.DataFrame:
     frames: list[pd.DataFrame] = []
     for path in discover_static_files(data_dir):

@@ -4,6 +4,7 @@ import argparse
 from pathlib import Path
 
 from .config import PipelineConfig
+from .patents import write_combined_static_file
 from .pipeline import run_pipeline
 
 
@@ -39,12 +40,22 @@ def parse_args() -> argparse.Namespace:
     p.add_argument("--skip-bls-oes", action="store_true", help="Skip BLS OEWS/OES controls.")
     p.add_argument("--skip-census", action="store_true", help="Skip Census CBP industry context.")
     p.add_argument("--include-bea", action="store_true", help="Include BEA industry context (requires --bea-api-key).")
+    p.add_argument("--combined-static-output", type=Path, default=None, help="Optional path to write one combined patent-level static CSV.")
+    p.add_argument("--combine-static-only", action="store_true", help="Only write the combined patent-level static CSV and exit.")
 
     return p.parse_args()
 
 
 def main() -> None:
     args = parse_args()
+    if args.combined_static_output is not None:
+        stats = write_combined_static_file(data_dir=args.data_dir, output_path=args.combined_static_output)
+        print(f"combined_static: {args.combined_static_output}")
+        print(f"combined_static_files: {stats['files']}")
+        print(f"combined_static_rows: {stats['rows']}")
+        if args.combine_static_only:
+            return
+
     config = PipelineConfig(
         data_dir=args.data_dir,
         output_dir=args.output_dir,
