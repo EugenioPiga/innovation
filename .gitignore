@@ -6,6 +6,5 @@ __pycache__/
 .venv/
 venv/
 cache/
-output/
 .pytest_cache/
 .DS_Store
