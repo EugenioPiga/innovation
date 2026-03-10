@@ -1,0 +1,11 @@
+{
+  "naics2_rows": 1469,
+  "naics3_rows": 3586,
+  "naics4_rows": 7477,
+  "naics2_industries": 20,
+  "naics3_industries": 70,
+  "naics4_industries": 155,
+  "year_min": 1900,
+  "year_max": 2020,
+  "output_root": "C:\\Users\\eugen\\OneDrive - UC San Diego\\Desktop\\Research\\Social Returns to Data\\innovation\\outputs\\descriptives_industry"
+}

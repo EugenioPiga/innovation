@@ -1,0 +1,27 @@
+Section,Filename,Title,Sample,Variables,Interpretation
+Main-paper candidates,table_im1_dataset_overview.csv,Table IM1. Industry dataset overview and mapping coverage,NAICS2/3/4 industry-year panels + patent mapping,Obs/industry/year and mapping shares,Shows industry sample scope and mapping quality.
+Main-paper candidates,table_im1_dataset_overview.tex,Table IM1. Industry dataset overview (LaTeX),Same as IM1,Same as IM1,Paper-ready table.
+Main-paper candidates,table_im2_key_summary_stats_naics4.csv,Table IM2. Key summary statistics (NAICS4-year),NAICS4-year benchmark,"Core outcomes, CPC composition, policy exposure",Characterizes cross-industry variation in key measures.
+Main-paper candidates,table_im2_key_summary_stats_naics4.tex,Table IM2. Key summary statistics (LaTeX),Same as IM2,Same as IM2,Paper-ready table.
+Main-paper candidates,table_im3_top_industries_levels.csv,Table IM3. Top industries by data/evidence patenting,NAICS4 totals over all years,Total contribution and intensity,Separates size from specialization across industries.
+Main-paper candidates,table_im3_top_industries_levels.tex,Table IM3. Top industries by data/evidence patenting (LaTeX),Same as IM3,Same as IM3,Paper-ready table.
+Appendix descriptives,table_ia2_top_industries_intensity.csv,Table IA2. Top industries by data/evidence intensity,"NAICS4 industries with at least 1,000 weighted patents",Average data/evidence share and benchmark score,Highlights specialization after filtering out very small industries.
+Appendix descriptives,table_ia2_top_industries_intensity.tex,Table IA2. Top industries by data/evidence intensity (LaTeX),Same as IA2,Same as IA2,Paper-ready table.
+Appendix descriptives,table_ia1_within_between_variance.csv,Table IA1. Within-vs-between variance by NAICS level,NAICS2/3/4 industry-year,Outcomes and policy exposure vars,Checks within-industry temporal variation for panel credibility.
+Appendix descriptives,table_ia1_within_between_variance.tex,Table IA1. Within-vs-between variance (LaTeX),Same as IA1,Same as IA1,Paper-ready table.
+Appendix descriptives,table_ia3_policy_bin_means.csv,Table IA3. Binned policy-exposure means,NAICS4-year with non-missing policy exposure,Binned policy means and data/evidence share,Supports policy-gradient figures with tabular values.
+Appendix descriptives,table_ia3_policy_bin_means.tex,Table IA3. Binned policy-exposure means (LaTeX),Same as IA3,Same as IA3,Paper-ready table.
+Main-paper candidates,figure_im1_global_trends_by_naics_level.png,Figure IM1. Industry trends by NAICS level,NAICS2/3/4 yearly aggregates,Total/data patents and shares,Shows evolution across aggregation levels.
+Main-paper candidates,figure_im1_global_trends_by_naics_level.pdf,Figure IM1. Industry trends by NAICS level (PDF),Same as IM1,Same as IM1,Vector format.
+Main-paper candidates,figure_im2_industry_concentration.png,Figure IM2. Industry concentration curves,NAICS2 and NAICS4 totals,Cumulative industry shares,Documents concentration across industries.
+Main-paper candidates,figure_im2_industry_concentration.pdf,Figure IM2. Industry concentration curves (PDF),Same as IM2,Same as IM2,Vector format.
+Main-paper candidates,figure_im3_levels_vs_intensity.png,Figure IM3. Levels vs intensity across industries,Top NAICS4 industries,Counts and average shares,Separates scale from specialization.
+Main-paper candidates,figure_im3_levels_vs_intensity.pdf,Figure IM3. Levels vs intensity (PDF),Same as IM3,Same as IM3,Vector format.
+Main-paper candidates,figure_im4_naics2_heterogeneity.png,Figure IM4. NAICS2 heterogeneity over time,Top NAICS2 sectors,Sector trends in share and counts,Highlights sectoral divergence.
+Main-paper candidates,figure_im4_naics2_heterogeneity.pdf,Figure IM4. NAICS2 heterogeneity over time (PDF),Same as IM4,Same as IM4,Vector format.
+Main-paper candidates,figure_im5_technology_signals_by_industry.png,Figure IM5. Technology signals by industry,Top NAICS4 industries,CPC-signal shares and data/evidence share,Shows whether evidence-intensity is broad across technologies.
+Main-paper candidates,figure_im5_technology_signals_by_industry.pdf,Figure IM5. Technology signals by industry (PDF),Same as IM5,Same as IM5,Vector format.
+Main-paper candidates,figure_im6_policy_exposure_gradients.png,Figure IM6. Policy-exposure gradients,NAICS4-year with policy exposure,Data/evidence share vs policy exposure,Descriptive policy links at industry level.
+Main-paper candidates,figure_im6_policy_exposure_gradients.pdf,Figure IM6. Policy-exposure gradients (PDF),Same as IM6,Same as IM6,Vector format.
+Appendix descriptives,figure_ia1_level_comparison.png,Figure IA1. NAICS level robustness,NAICS2/3/4 yearly aggregates,Weighted/unweighted shares by level,Checks aggregation-level robustness.
+Appendix descriptives,figure_ia1_level_comparison.pdf,Figure IA1. NAICS level robustness (PDF),Same as IA1,Same as IA1,Vector format.

@@ -1,0 +1,5 @@
+Dataset,Unit,Observations,Industries,Year start,Year end,Share with gvkey,Share with SIC
+Industry-year panel (NAICS 2-digit),NAICS2-year,1469,20.0,1900.0,2020.0,,
+Industry-year panel (NAICS 3-digit),NAICS3-year,3586,70.0,1900.0,2020.0,,
+Industry-year panel (NAICS 4-digit),NAICS4-year,7477,155.0,1900.0,2020.0,,
+Patent-level mapping coverage,Patent,3644430,,,,1.0,0.285

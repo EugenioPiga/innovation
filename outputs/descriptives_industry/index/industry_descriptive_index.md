@@ -1,0 +1,28 @@
+# Industry Descriptive Output Index
+
+- **table_im1_dataset_overview.csv** | Table IM1. Industry dataset overview and mapping coverage | Sample: NAICS2/3/4 industry-year panels + patent mapping | Variables: Obs/industry/year and mapping shares | Interpretation: Shows industry sample scope and mapping quality.
+- **table_im1_dataset_overview.tex** | Table IM1. Industry dataset overview (LaTeX) | Sample: Same as IM1 | Variables: Same as IM1 | Interpretation: Paper-ready table.
+- **table_im2_key_summary_stats_naics4.csv** | Table IM2. Key summary statistics (NAICS4-year) | Sample: NAICS4-year benchmark | Variables: Core outcomes, CPC composition, policy exposure | Interpretation: Characterizes cross-industry variation in key measures.
+- **table_im2_key_summary_stats_naics4.tex** | Table IM2. Key summary statistics (LaTeX) | Sample: Same as IM2 | Variables: Same as IM2 | Interpretation: Paper-ready table.
+- **table_im3_top_industries_levels.csv** | Table IM3. Top industries by data/evidence patenting | Sample: NAICS4 totals over all years | Variables: Total contribution and intensity | Interpretation: Separates size from specialization across industries.
+- **table_im3_top_industries_levels.tex** | Table IM3. Top industries by data/evidence patenting (LaTeX) | Sample: Same as IM3 | Variables: Same as IM3 | Interpretation: Paper-ready table.
+- **table_ia2_top_industries_intensity.csv** | Table IA2. Top industries by data/evidence intensity | Sample: NAICS4 industries with at least 1,000 weighted patents | Variables: Average data/evidence share and benchmark score | Interpretation: Highlights specialization after filtering out very small industries.
+- **table_ia2_top_industries_intensity.tex** | Table IA2. Top industries by data/evidence intensity (LaTeX) | Sample: Same as IA2 | Variables: Same as IA2 | Interpretation: Paper-ready table.
+- **table_ia1_within_between_variance.csv** | Table IA1. Within-vs-between variance by NAICS level | Sample: NAICS2/3/4 industry-year | Variables: Outcomes and policy exposure vars | Interpretation: Checks within-industry temporal variation for panel credibility.
+- **table_ia1_within_between_variance.tex** | Table IA1. Within-vs-between variance (LaTeX) | Sample: Same as IA1 | Variables: Same as IA1 | Interpretation: Paper-ready table.
+- **table_ia3_policy_bin_means.csv** | Table IA3. Binned policy-exposure means | Sample: NAICS4-year with non-missing policy exposure | Variables: Binned policy means and data/evidence share | Interpretation: Supports policy-gradient figures with tabular values.
+- **table_ia3_policy_bin_means.tex** | Table IA3. Binned policy-exposure means (LaTeX) | Sample: Same as IA3 | Variables: Same as IA3 | Interpretation: Paper-ready table.
+- **figure_im1_global_trends_by_naics_level.png** | Figure IM1. Industry trends by NAICS level | Sample: NAICS2/3/4 yearly aggregates | Variables: Total/data patents and shares | Interpretation: Shows evolution across aggregation levels.
+- **figure_im1_global_trends_by_naics_level.pdf** | Figure IM1. Industry trends by NAICS level (PDF) | Sample: Same as IM1 | Variables: Same as IM1 | Interpretation: Vector format.
+- **figure_im2_industry_concentration.png** | Figure IM2. Industry concentration curves | Sample: NAICS2 and NAICS4 totals | Variables: Cumulative industry shares | Interpretation: Documents concentration across industries.
+- **figure_im2_industry_concentration.pdf** | Figure IM2. Industry concentration curves (PDF) | Sample: Same as IM2 | Variables: Same as IM2 | Interpretation: Vector format.
+- **figure_im3_levels_vs_intensity.png** | Figure IM3. Levels vs intensity across industries | Sample: Top NAICS4 industries | Variables: Counts and average shares | Interpretation: Separates scale from specialization.
+- **figure_im3_levels_vs_intensity.pdf** | Figure IM3. Levels vs intensity (PDF) | Sample: Same as IM3 | Variables: Same as IM3 | Interpretation: Vector format.
+- **figure_im4_naics2_heterogeneity.png** | Figure IM4. NAICS2 heterogeneity over time | Sample: Top NAICS2 sectors | Variables: Sector trends in share and counts | Interpretation: Highlights sectoral divergence.
+- **figure_im4_naics2_heterogeneity.pdf** | Figure IM4. NAICS2 heterogeneity over time (PDF) | Sample: Same as IM4 | Variables: Same as IM4 | Interpretation: Vector format.
+- **figure_im5_technology_signals_by_industry.png** | Figure IM5. Technology signals by industry | Sample: Top NAICS4 industries | Variables: CPC-signal shares and data/evidence share | Interpretation: Shows whether evidence-intensity is broad across technologies.
+- **figure_im5_technology_signals_by_industry.pdf** | Figure IM5. Technology signals by industry (PDF) | Sample: Same as IM5 | Variables: Same as IM5 | Interpretation: Vector format.
+- **figure_im6_policy_exposure_gradients.png** | Figure IM6. Policy-exposure gradients | Sample: NAICS4-year with policy exposure | Variables: Data/evidence share vs policy exposure | Interpretation: Descriptive policy links at industry level.
+- **figure_im6_policy_exposure_gradients.pdf** | Figure IM6. Policy-exposure gradients (PDF) | Sample: Same as IM6 | Variables: Same as IM6 | Interpretation: Vector format.
+- **figure_ia1_level_comparison.png** | Figure IA1. NAICS level robustness | Sample: NAICS2/3/4 yearly aggregates | Variables: Weighted/unweighted shares by level | Interpretation: Checks aggregation-level robustness.
+- **figure_ia1_level_comparison.pdf** | Figure IA1. NAICS level robustness (PDF) | Sample: Same as IA1 | Variables: Same as IA1 | Interpretation: Vector format.
