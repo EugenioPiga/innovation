@@ -87,3 +87,15 @@ firm-patent-enrich \
 - FRED can run with `--fred-api-key` (recommended for reliability).
 - BEA data requires an API key; if omitted, BEA columns are skipped.
 - Census context is merged by year and a SIC->NAICS proxy bucket.
+
+## Patent Evidence Measure Pipeline
+
+This repo also includes a patent-level and country-year pipeline for measuring data/evidence-driven innovation:
+
+```bash
+python scripts/patent_evidence/01_build_patent_backbone.py --chunksize 250000
+python scripts/patent_evidence/02_score_patent_evidence.py --chunksize 30000 --train-per-class 20000 --holdout-per-class 6000
+python scripts/patent_evidence/03_aggregate_patent_evidence_country_year.py
+```
+
+Main outputs are under `datasets/patent_evidence/output/`, and the measurement memo is at `datasets/patent_evidence/measurement_memo.md`.

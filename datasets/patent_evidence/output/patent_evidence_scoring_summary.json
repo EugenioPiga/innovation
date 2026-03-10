@@ -1,0 +1,14 @@
+{
+  "train_sample_rows": null,
+  "holdout_sample_rows": null,
+  "benchmark_threshold": 0.14999999999999997,
+  "output_file": "C:\\Users\\eugen\\OneDrive - UC San Diego\\Desktop\\Research\\Social Returns to Data\\innovation\\datasets\\patent_evidence\\output\\patent_evidence_patent_level.csv.gz",
+  "score_only": true,
+  "chunk_start": 1,
+  "chunk_end": 0,
+  "append_output": true,
+  "chunk_rows_written": 0,
+  "chunk_count_processed": 0,
+  "last_chunk_processed": 0,
+  "total_output_rows": 3644430
+}

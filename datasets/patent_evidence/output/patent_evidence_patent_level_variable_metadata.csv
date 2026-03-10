@@ -1,0 +1,36 @@
+variable,description
+patent_id,Patent identifier (Compustat/PatentsView matched).
+app_year,Application year from Compustat patent panel.
+grant_year,Grant year from Compustat patent panel.
+patent_date_year,Year extracted from PatentsView patent_date.
+assignee_country_mode,"Modal assignee country code (PatentsView, ISO2)."
+assignee_country_primary,"Primary-sequence assignee country code (PatentsView, ISO2)."
+inventor_country_mode,"Modal inventor country code (PatentsView, ISO2)."
+inventor_country_primary,"Primary-sequence inventor country code (PatentsView, ISO2)."
+patent_title,Patent title used in text scoring.
+patent_abstract,Patent abstract used in text scoring.
+num_claims,Number of claims from PatentsView.
+data_collection_score,Component score: data collection / observed data intensity.
+empirical_analysis_score,Component score: empirical/statistical analysis intensity.
+experimental_validation_score,Component score: experimentation/testing/benchmarking intensity.
+measurement_instrumentation_score,Component score: measurement/sensor/instrumentation intensity.
+data_quality_calibration_score,"Component score: data quality, calibration, verification intensity."
+ml_training_data_score,Component score: ML/training-data dependence intensity.
+boilerplate_score,Generic digital/software boilerplate intensity.
+dictionary_score,Rules-based score combining component patterns with boilerplate penalty.
+metadata_score,CPC/metadata-based score from measurement/testing/ML/statistical classes.
+metadata_signal_count,Count of key CPC evidence signals (measurement/testing/ML/bio/statistics).
+semantic_lsa_score,Semantic similarity score to evidence-driven prototypes (LSA).
+text_supervised_score,Supervised text-model probability from weak labels.
+benchmark_score,Preferred hybrid benchmark probability (stacked model).
+benchmark_flag,Binary benchmark indicator using holdout-selected threshold.
+benchmark_confidence,Distance of benchmark_score from 0.5 (0-1).
+seed_label,Weak-supervision anchor label used for model fitting (1/0/NA).
+has_measurement_cpc,Patent has measurement/instrumentation CPC signal.
+has_testing_cpc,Patent has testing/diagnostics CPC signal.
+has_ml_cpc,Patent has ML/AI CPC signal.
+has_data_processing_cpc,Patent has data-processing CPC signal.
+has_bio_assay_cpc,Patent has bio-assay/diagnostic CPC signal.
+has_statistics_cpc,Patent has statistical/inference CPC signal.
+cpc_total_count,Total CPC assignments on patent.
+cpc_unique_subclass_count,Unique CPC subclasses on patent.

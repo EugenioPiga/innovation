@@ -1,0 +1,19 @@
+variable,source,description,benchmark_variant
+pe_patent_count,PatentsView + hybrid patent evidence classifier,"Total patents in iso3-year (assignee country, application year).",assignee_country_iso3 x app_year
+pe_data_driven_patent_count,PatentsView + hybrid patent evidence classifier,Count of patents flagged data/evidence-driven by benchmark classifier.,assignee_country_iso3 x app_year
+pe_data_driven_patent_share,PatentsView + hybrid patent evidence classifier,Share of patents flagged data/evidence-driven.,assignee_country_iso3 x app_year
+pe_benchmark_score_mean,PatentsView + hybrid patent evidence classifier,Mean benchmark probability score.,assignee_country_iso3 x app_year
+pe_benchmark_top_decile_share,PatentsView + hybrid patent evidence classifier,Share of patents above global 90th percentile benchmark score.,assignee_country_iso3 x app_year
+pe_dictionary_score_mean,PatentsView + hybrid patent evidence classifier,Mean dictionary/rules score.,assignee_country_iso3 x app_year
+pe_metadata_score_mean,PatentsView + hybrid patent evidence classifier,Mean metadata/CPC score.,assignee_country_iso3 x app_year
+pe_text_supervised_score_mean,PatentsView + hybrid patent evidence classifier,Mean supervised text-model score.,assignee_country_iso3 x app_year
+pe_semantic_lsa_score_mean,PatentsView + hybrid patent evidence classifier,Mean embedding-style semantic similarity score.,assignee_country_iso3 x app_year
+pe_data_collection_score_mean,PatentsView + hybrid patent evidence classifier,Mean component: data collection intensity.,assignee_country_iso3 x app_year
+pe_empirical_analysis_score_mean,PatentsView + hybrid patent evidence classifier,Mean component: empirical/statistical analysis intensity.,assignee_country_iso3 x app_year
+pe_experimental_validation_score_mean,PatentsView + hybrid patent evidence classifier,Mean component: experimental/validation intensity.,assignee_country_iso3 x app_year
+pe_measurement_instrumentation_score_mean,PatentsView + hybrid patent evidence classifier,Mean component: measurement/instrumentation intensity.,assignee_country_iso3 x app_year
+pe_data_quality_calibration_score_mean,PatentsView + hybrid patent evidence classifier,Mean component: data quality/calibration intensity.,assignee_country_iso3 x app_year
+pe_ml_training_data_score_mean,PatentsView + hybrid patent evidence classifier,Mean component: ML/training-data intensity.,assignee_country_iso3 x app_year
+pe_boilerplate_score_mean,PatentsView + hybrid patent evidence classifier,Mean generic digital boilerplate score.,assignee_country_iso3 x app_year
+pe_claims_weighted_benchmark_score_mean,PatentsView + hybrid patent evidence classifier,Claims-weighted mean benchmark score.,assignee_country_iso3 x app_year
+pe_benchmark_confidence_mean,PatentsView + hybrid patent evidence classifier,Mean benchmark confidence (distance from 0.5).,assignee_country_iso3 x app_year

@@ -1,0 +1,12 @@
+{
+  "written_variant_files": [
+    "C:\\Users\\eugen\\OneDrive - UC San Diego\\Desktop\\Research\\Social Returns to Data\\innovation\\datasets\\patent_evidence\\output\\country_year\\patent_evidence_country_year_assignee_app.csv",
+    "C:\\Users\\eugen\\OneDrive - UC San Diego\\Desktop\\Research\\Social Returns to Data\\innovation\\datasets\\patent_evidence\\output\\country_year\\patent_evidence_country_year_assignee_grant.csv",
+    "C:\\Users\\eugen\\OneDrive - UC San Diego\\Desktop\\Research\\Social Returns to Data\\innovation\\datasets\\patent_evidence\\output\\country_year\\patent_evidence_country_year_inventor_app.csv",
+    "C:\\Users\\eugen\\OneDrive - UC San Diego\\Desktop\\Research\\Social Returns to Data\\innovation\\datasets\\patent_evidence\\output\\country_year\\patent_evidence_country_year_inventor_grant.csv"
+  ],
+  "mergeable_all_variants_file": "C:\\Users\\eugen\\OneDrive - UC San Diego\\Desktop\\Research\\Social Returns to Data\\innovation\\datasets\\patent_evidence\\output\\country_year\\patent_evidence_country_year_all_variants.csv",
+  "benchmark_variant_file": "C:\\Users\\eugen\\OneDrive - UC San Diego\\Desktop\\Research\\Social Returns to Data\\innovation\\datasets\\patent_evidence\\output\\country_year\\patent_evidence_country_year_benchmark.csv",
+  "merged_panel_file": "C:\\Users\\eugen\\OneDrive - UC San Diego\\Desktop\\Research\\Social Returns to Data\\innovation\\datasets\\patent_evidence\\output\\country_year\\social_returns_country_year_panel_with_patent_evidence.csv",
+  "variable_metadata_file": "C:\\Users\\eugen\\OneDrive - UC San Diego\\Desktop\\Research\\Social Returns to Data\\innovation\\datasets\\patent_evidence\\output\\country_year\\patent_evidence_country_year_variable_metadata.csv"
+}

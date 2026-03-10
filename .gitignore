@@ -8,3 +8,12 @@ venv/
 cache/
 .pytest_cache/
 .DS_Store
+
+# Large patent data extracts and heavy generated artifacts
+datasets/patentsview/raw/
+datasets/patent_evidence/intermediate/
+datasets/patent_evidence/output/patent_backbone.csv.gz
+datasets/patent_evidence/output/patent_backbone.parquet
+datasets/patent_evidence/output/patent_evidence_patent_level.csv.gz
+datasets/patent_evidence/output/models/
+datasets/patent_evidence/output/scoring_run.log

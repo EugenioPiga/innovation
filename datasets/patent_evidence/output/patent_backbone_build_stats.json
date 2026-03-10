@@ -1,0 +1,9 @@
+{
+  "patent_universe_rows": 3644430,
+  "patent_core_filtered_rows": 2989034,
+  "patent_abstract_filtered_rows": 2989034,
+  "assignee_country_raw_rows": 3072862,
+  "inventor_country_raw_rows": 8247011,
+  "cpc_chunk_rows": 17935435,
+  "backbone_rows": 3644430
+}
