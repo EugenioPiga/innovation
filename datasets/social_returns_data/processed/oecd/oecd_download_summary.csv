@@ -1,0 +1,15 @@
+dataset_id,flow,file_path,file_size_bytes,column_count
+oecd_msti,DSD_MSTI@DF_MSTI,datasets\social_returns_data\raw\oecd\oecd_msti.csv,14882998,17
+oecd_berd_ma_toe,DSD_RDS_BERD@DF_BERD_MA_TOE,datasets\social_returns_data\raw\oecd\oecd_berd_ma_toe.csv,14943576,25
+oecd_berd_ma_sof,DSD_RDS_BERD@DF_BERD_MA_SOF,datasets\social_returns_data\raw\oecd\oecd_berd_ma_sof.csv,30807434,25
+oecd_berd_indu,DSD_RDS_BERD@DF_BERD_INDU,datasets\social_returns_data\raw\oecd\oecd_berd_indu.csv,9974623,25
+oecd_gerd_toe,DSD_RDS_GERD@DF_GERD_TOE,datasets\social_returns_data\raw\oecd\oecd_gerd_toe.csv,13479164,25
+oecd_pers_indu,DSD_RDS_PERS@DF_PERS_INDU,datasets\social_returns_data\raw\oecd\oecd_pers_indu.csv,12081834,23
+oecd_pers_ford,DSD_RDS_PERS@DF_PERS_FORD,datasets\social_returns_data\raw\oecd\oecd_pers_ford.csv,14090471,23
+oecd_gbard_nabs07,DSD_RDS_GOV@DF_GBARD_NABS07,datasets\social_returns_data\raw\oecd\oecd_gbard_nabs07.csv,7496366,22
+oecd_anberd_i4,DSD_ANBERD@DF_ANBERDi4,datasets\social_returns_data\raw\oecd\oecd_anberd_i4.csv,22195729,14
+oecd_rdtax,DSD_RDTAX@DF_RDTAX,datasets\social_returns_data\raw\oecd\oecd_rdtax.csv,2877569,21
+oecd_rdsub,DSD_RDTAX@DF_RDSUB,datasets\social_returns_data\raw\oecd\oecd_rdsub.csv,516589,21
+oecd_iptax,DSD_RDTAX@DF_IPTAX,datasets\social_returns_data\raw\oecd\oecd_iptax.csv,43652,21
+oecd_biblio,DSD_BIBLIO@DF_BIBLIO,datasets\social_returns_data\raw\oecd\oecd_biblio.csv,196887666,10
+oecd_rdtax_workbook,workbook,datasets\social_returns_data\raw\oecd\oecd_rdtax_workbook.xlsx,527041,

@@ -1,1 +1,2 @@
 output/patent_static_all.csv filter=lfs diff=lfs merge=lfs -text
+datasets/social_returns_data/raw/** filter=lfs diff=lfs merge=lfs -text

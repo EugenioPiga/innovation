@@ -1,0 +1,78 @@
+variable,source,description
+iso3c,Harmonized key,ISO-3 country code.
+year,Harmonized key,Calendar year.
+country_name,Merged,Best-available country name across WDI/PWT/WB metadata.
+wb_region,World Bank metadata,World Bank region.
+wb_income_level,World Bank metadata,World Bank income group.
+wb_lending_type,World Bank metadata,World Bank lending category.
+log_gdp_per_capita_const_2015,Derived,Natural log of WDI GDP per capita (constant 2015 USD).
+log_patent_resident_plus1,Derived,Natural log of (resident patent applications + 1).
+log_patent_total_plus1,Derived,Natural log of (resident + nonresident patent applications + 1).
+BX.KLT.DINV.WD.GD.ZS,World Bank WDI,"Foreign direct investment, net inflows (% of GDP)"
+FP.CPI.TOTL.ZG,World Bank WDI,"Inflation, consumer prices (annual %)"
+GB.XPD.RSDV.GD.ZS,World Bank WDI,R&D expenditure (% of GDP)
+IP.JRN.ARTC.SC,World Bank WDI,Scientific and technical journal articles
+IP.PAT.NRES,World Bank WDI,"Patent applications, nonresidents"
+IP.PAT.RESD,World Bank WDI,"Patent applications, residents"
+IT.CEL.SETS.P2,World Bank WDI,Mobile cellular subscriptions (per 100 people)
+IT.NET.SECR.P6,World Bank WDI,Secure Internet servers (per 1 million people)
+IT.NET.USER.ZS,World Bank WDI,Individuals using the Internet (% of population)
+NE.GDI.TOTL.ZS,World Bank WDI,Gross capital formation (% of GDP)
+NE.TRD.GNFS.ZS,World Bank WDI,Trade (% of GDP)
+NV.IND.TOTL.ZS,World Bank WDI,"Industry (including construction), value added (% of GDP)"
+NV.SRV.TOTL.ZS,World Bank WDI,"Services, value added (% of GDP)"
+NY.GDP.MKTP.KD,World Bank WDI,GDP (constant 2015 US$)
+NY.GDP.PCAP.KD,World Bank WDI,GDP per capita (constant 2015 US$)
+NY.GDP.PCAP.PP.KD,World Bank WDI,"GDP per capita, PPP (constant 2021 intl. $)"
+SL.UEM.TOTL.ZS,World Bank WDI,"Unemployment, total (% of labor force)"
+SP.POP.SCIE.RD.P6,World Bank WDI,Researchers in R&D (per million people)
+pwt_country_name,Penn World Table 10.0,Country name in PWT.
+pwt_rgdpna_mil_2017usd,Penn World Table 10.0,Real GDP at constant 2017 national prices (millions).
+pwt_ctfp_level,Penn World Table 10.0,TFP level at current PPPs.
+pwt_cwtfp_level,Penn World Table 10.0,Welfare-relevant TFP level at current PPPs.
+pwt_rtfpna_level,Penn World Table 10.0,TFP level at constant national prices.
+pwt_rwtfpna_level,Penn World Table 10.0,Welfare-relevant TFP at constant national prices.
+pwt_pop_millions,Penn World Table 10.0,Population (millions).
+pwt_emp_millions,Penn World Table 10.0,Employment (millions).
+pwt_avh_hours,Penn World Table 10.0,Average annual hours worked by engaged person.
+pwt_human_capital_index,Penn World Table 10.0,Human capital index based on years of schooling and returns.
+pwt_natural_capital_stock_mil_2017usd,Penn World Table 10.0,Natural capital stock at constant 2017 national prices (millions).
+pwt_capital_stock_mil_2017usd,Penn World Table 10.0,Capital stock at constant 2017 national prices (millions).
+oecd_gerd_total_usd_ppp_const2015,OECD SDMX (DF_GERD_TOE),"Gross domestic expenditure on R&D, all performing sectors; constant PPP USD (base 2015)."
+oecd_gerd_business_usd_ppp_const2015,OECD SDMX (DF_GERD_TOE),GERD performed by business enterprise sector; constant PPP USD (base 2015).
+oecd_gerd_government_usd_ppp_const2015,OECD SDMX (DF_GERD_TOE),GERD performed by government sector; constant PPP USD (base 2015).
+oecd_gerd_highered_usd_ppp_const2015,OECD SDMX (DF_GERD_TOE),GERD performed by higher education sector; constant PPP USD (base 2015).
+oecd_rd_personnel_fte_total,OECD SDMX (DF_PERS_FORD),"R&D personnel (internal), full-time equivalent, total performing sector."
+oecd_rd_personnel_fte_business,OECD SDMX (DF_PERS_FORD),"R&D personnel (internal), full-time equivalent, business performing sector."
+oecd_rd_personnel_fte_highered,OECD SDMX (DF_PERS_FORD),"R&D personnel (internal), full-time equivalent, highered performing sector."
+oecd_rd_personnel_fte_government,OECD SDMX (DF_PERS_FORD),"R&D personnel (internal), full-time equivalent, government performing sector."
+oecd_rdtax_pct_gdp,OECD SDMX (DF_RDTAX),Tax support for R&D as percent of GDP.
+oecd_direct_funding_pct_gdp,OECD SDMX (DF_RDTAX),Direct funding for R&D as percent of GDP.
+oecd_total_support_pct_gdp,OECD SDMX (DF_RDTAX),Total R&D support (tax + direct funding) as percent of GDP.
+oecd_gbard_pct_gdp,OECD SDMX (DF_RDTAX),Government budget allocations for R&D as percent of GDP.
+oecd_b_index_sme_profitable,OECD SDMX (DF_RDSUB),"B-index for implied tax subsidy: size=SME, profit scenario=PROFITABLE."
+oecd_b_index_sme_loss_making,OECD SDMX (DF_RDSUB),"B-index for implied tax subsidy: size=SME, profit scenario=LOSS_MAKING."
+oecd_b_index_large_profitable,OECD SDMX (DF_RDSUB),"B-index for implied tax subsidy: size=LARGE, profit scenario=PROFITABLE."
+oecd_b_index_large_loss_making,OECD SDMX (DF_RDSUB),"B-index for implied tax subsidy: size=LARGE, profit scenario=LOSS_MAKING."
+oecd_iptax_pct_gdp,OECD SDMX (DF_IPTAX),"Tax support for innovation/pro-IP policy index, as percent of GDP equivalent."
+oecd_msti_g_pct_gdp,OECD SDMX (DF_MSTI),MSTI measure code G in percent-of-GDP units (PT_B1GQ).
+oecd_msti_b_pct_gdp,OECD SDMX (DF_MSTI),MSTI measure code B in percent-of-GDP units (PT_B1GQ).
+oecd_msti_gv_pct_gdp,OECD SDMX (DF_MSTI),MSTI measure code GV in percent-of-GDP units (PT_B1GQ).
+oecd_msti_h_pct_gdp,OECD SDMX (DF_MSTI),MSTI measure code H in percent-of-GDP units (PT_B1GQ).
+oecd_msti_g_fg_pct_gdp,OECD SDMX (DF_MSTI),MSTI measure code G_FG in percent-of-GDP units (PT_B1GQ).
+oecd_msti_g_fb_pct_gdp,OECD SDMX (DF_MSTI),MSTI measure code G_FB in percent-of-GDP units (PT_B1GQ).
+oecd_msti_g_br_pct_gdp,OECD SDMX (DF_MSTI),MSTI measure code G_BR in percent-of-GDP units (PT_B1GQ).
+oecd_msti_g_cv_pct_gdp,OECD SDMX (DF_MSTI),MSTI measure code G_CV in percent-of-GDP units (PT_B1GQ).
+ecipe_dte_n_measures,ECIPE DTE,Count of documented digital trade measures starting in that country-year (timeframe parsed).
+ecipe_dte_n_measures_cum,ECIPE DTE,Cumulative count of documented digital trade measures by country-year.
+ecipe_dte_any_measure,ECIPE DTE,Indicator for at least one documented digital trade measure in the country-year.
+ecipe_dte_first_year,ECIPE DTE,First year with at least one documented measure (based on parsed timeframe).
+ecipe_dte_post_any,ECIPE DTE,Indicator for years on/after first documented measure.
+unctad_electronic_transactions_code,UNCTAD Cyberlaw tracker,"Status code snapshot (0=no data, 1=legislation, 2=draft legislation, 3=no legislation)."
+unctad_consumer_protection_code,UNCTAD Cyberlaw tracker,"Status code snapshot (0=no data, 1=legislation, 2=draft legislation, 3=no legislation)."
+unctad_privacy_and_data_protection_code,UNCTAD Cyberlaw tracker,"Status code snapshot (0=no data, 1=legislation, 2=draft legislation, 3=no legislation)."
+unctad_cybercrime_code,UNCTAD Cyberlaw tracker,"Status code snapshot (0=no data, 1=legislation, 2=draft legislation, 3=no legislation)."
+unctad_indirect_taxation_code,UNCTAD Cyberlaw tracker,"Status code snapshot (0=no data, 1=legislation, 2=draft legislation, 3=no legislation)."
+datagouv_privacy_level_ordinal,data.gouv.fr global privacy map,Static privacy-protection ordinal score: 0=no law ... 5=EU/EEA member.
+datagouv_member_edpb,data.gouv.fr global privacy map,Static indicator for EDPB membership.
+datagouv_member_afapdp,data.gouv.fr global privacy map,Static indicator for AFAPDP membership.

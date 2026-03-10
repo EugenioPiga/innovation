@@ -1,0 +1,66 @@
+ecipe_country,iso3c,matched_by
+ARGENTINA,ARG,exact_normalized
+AUSTRALIA,AUS,exact_normalized
+AUSTRIA,AUT,exact_normalized
+BELGIUM,BEL,exact_normalized
+BRAZIL,BRA,exact_normalized
+BRUNEI,BRN,manual
+BULGARIA,BGR,exact_normalized
+CANADA,CAN,exact_normalized
+CHILE,CHL,exact_normalized
+CHINA,CHN,exact_normalized
+COLOMBIA,COL,exact_normalized
+COSTA RICA,CRI,exact_normalized
+CROATIA,HRV,exact_normalized
+CYPRUS,CYP,exact_normalized
+CZECH REPUBLIC,CZE,manual
+DENMARK,DNK,exact_normalized
+ECUADOR,ECU,exact_normalized
+ESTONIA,EST,exact_normalized
+EUROPEAN UNION,,excluded_non_country
+FINLAND,FIN,exact_normalized
+FRANCE,FRA,exact_normalized
+GERMANY,DEU,exact_normalized
+GREECE,GRC,exact_normalized
+HONG KONG,HKG,manual
+HUNGARY,HUN,exact_normalized
+ICELAND,ISL,exact_normalized
+INDIA,IND,exact_normalized
+INDONESIA,IDN,exact_normalized
+IRELAND,IRL,exact_normalized
+ISRAEL,ISR,exact_normalized
+ITALY,ITA,exact_normalized
+JAPAN,JPN,exact_normalized
+KOREA,KOR,manual
+LATVIA,LVA,exact_normalized
+LITHUANIA,LTU,exact_normalized
+LUXEMBOURG,LUX,exact_normalized
+MALAYSIA,MYS,exact_normalized
+MALTA,MLT,exact_normalized
+MEXICO,MEX,exact_normalized
+NETHERLANDS,NLD,exact_normalized
+NEW ZEALAND,NZL,exact_normalized
+NIGERIA,NGA,exact_normalized
+NORWAY,NOR,exact_normalized
+PAKISTAN,PAK,exact_normalized
+PANAMA,PAN,exact_normalized
+PARAGUAY,PRY,exact_normalized
+PERU,PER,exact_normalized
+PHILIPPINES,PHL,exact_normalized
+POLAND,POL,exact_normalized
+PORTUGAL,PRT,exact_normalized
+ROMANIA,ROU,exact_normalized
+RUSSIA,RUS,manual
+SINGAPORE,SGP,exact_normalized
+SLOVAKIA,SVK,manual
+SLOVENIA,SVN,exact_normalized
+SOUTH AFRICA,ZAF,exact_normalized
+SPAIN,ESP,exact_normalized
+SWEDEN,SWE,exact_normalized
+SWITZERLAND,CHE,exact_normalized
+TAIWAN,TWN,manual
+THAILAND,THA,exact_normalized
+TURKEY,TUR,manual
+UNITED KINGDOM,GBR,exact_normalized
+UNITED STATES,USA,exact_normalized
+VIETNAM,VNM,manual

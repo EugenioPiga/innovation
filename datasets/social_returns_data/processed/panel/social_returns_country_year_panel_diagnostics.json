@@ -1,0 +1,10 @@
+{
+  "rows": 15593,
+  "countries": 217,
+  "year_min": 1906,
+  "year_max": 2029,
+  "columns": 79,
+  "ecipe_unmatched_countries": [
+    "EUROPEAN UNION"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "source_date_text": "17/02/2026",
+  "law_domains": [
+    "Electronic Transactions",
+    "Consumer Protection",
+    "Privacy and Data Protection",
+    "Cybercrime",
+    "Indirect Taxation"
+  ],
+  "status_map": {
+    "0": "no_data",
+    "1": "legislation",
+    "2": "draft_legislation",
+    "3": "no_legislation"
+  }
+}

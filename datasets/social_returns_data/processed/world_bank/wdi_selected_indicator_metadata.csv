@@ -1,0 +1,21 @@
+indicator_id,indicator_name
+GB.XPD.RSDV.GD.ZS,R&D expenditure (% of GDP)
+GB.XPD.RSDV.CD,R&D expenditure (current US$)
+SP.POP.SCIE.RD.P6,Researchers in R&D (per million people)
+IP.PAT.RESD,"Patent applications, residents"
+IP.PAT.NRES,"Patent applications, nonresidents"
+IP.JRN.ARTC.SC,Scientific and technical journal articles
+IT.NET.USER.ZS,Individuals using the Internet (% of population)
+IT.NET.SECR.P6,Secure Internet servers (per 1 million people)
+IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people)
+NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$)
+NY.GDP.MKTP.KD,GDP (constant 2015 US$)
+NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 intl. $)"
+NE.GDI.TOTL.ZS,Gross capital formation (% of GDP)
+NE.TRD.GNFS.ZS,Trade (% of GDP)
+BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)"
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+SL.UEM.TOTL.ZS,"Unemployment, total (% of labor force)"
+NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)"
+NV.SRV.TOTL.ZS,"Services, value added (% of GDP)"
+EN.ATM.CO2E.PC,CO2 emissions (metric tons per capita)

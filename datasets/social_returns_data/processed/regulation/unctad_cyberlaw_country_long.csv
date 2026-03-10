@@ -1,0 +1,976 @@
+iso2c,law_domain,law_domain_slug,status_code,status_label,source_date_text
+AD,Consumer Protection,consumer_protection,3,no_legislation,17/02/2026
+AD,Cybercrime,cybercrime,1,legislation,17/02/2026
+AD,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+AD,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+AD,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+AE,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+AE,Cybercrime,cybercrime,1,legislation,17/02/2026
+AE,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+AE,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+AE,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+AF,Consumer Protection,consumer_protection,3,no_legislation,17/02/2026
+AF,Cybercrime,cybercrime,1,legislation,17/02/2026
+AF,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+AF,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+AF,Privacy and Data Protection,privacy_and_data_protection,3,no_legislation,17/02/2026
+AG,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+AG,Cybercrime,cybercrime,1,legislation,17/02/2026
+AG,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+AG,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+AG,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+AL,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+AL,Cybercrime,cybercrime,1,legislation,17/02/2026
+AL,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+AL,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+AL,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+AM,Consumer Protection,consumer_protection,3,no_legislation,17/02/2026
+AM,Cybercrime,cybercrime,1,legislation,17/02/2026
+AM,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+AM,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+AM,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+AO,Consumer Protection,consumer_protection,3,no_legislation,17/02/2026
+AO,Cybercrime,cybercrime,1,legislation,17/02/2026
+AO,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+AO,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+AO,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+AR,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+AR,Cybercrime,cybercrime,1,legislation,17/02/2026
+AR,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+AR,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+AR,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+AT,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+AT,Cybercrime,cybercrime,1,legislation,17/02/2026
+AT,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+AT,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+AT,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+AU,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+AU,Cybercrime,cybercrime,1,legislation,17/02/2026
+AU,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+AU,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+AU,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+AZ,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+AZ,Cybercrime,cybercrime,1,legislation,17/02/2026
+AZ,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+AZ,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+AZ,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+BA,Consumer Protection,consumer_protection,0,no_data,17/02/2026
+BA,Cybercrime,cybercrime,1,legislation,17/02/2026
+BA,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+BA,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+BA,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+BB,Consumer Protection,consumer_protection,3,no_legislation,17/02/2026
+BB,Cybercrime,cybercrime,1,legislation,17/02/2026
+BB,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+BB,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+BB,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+BD,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+BD,Cybercrime,cybercrime,1,legislation,17/02/2026
+BD,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+BD,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+BD,Privacy and Data Protection,privacy_and_data_protection,2,draft_legislation,17/02/2026
+BE,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+BE,Cybercrime,cybercrime,1,legislation,17/02/2026
+BE,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+BE,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+BE,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+BF,Consumer Protection,consumer_protection,3,no_legislation,17/02/2026
+BF,Cybercrime,cybercrime,1,legislation,17/02/2026
+BF,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+BF,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+BF,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+BG,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+BG,Cybercrime,cybercrime,1,legislation,17/02/2026
+BG,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+BG,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+BG,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+BH,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+BH,Cybercrime,cybercrime,1,legislation,17/02/2026
+BH,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+BH,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+BH,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+BI,Consumer Protection,consumer_protection,3,no_legislation,17/02/2026
+BI,Cybercrime,cybercrime,1,legislation,17/02/2026
+BI,Electronic Transactions,electronic_transactions,2,draft_legislation,17/02/2026
+BI,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+BI,Privacy and Data Protection,privacy_and_data_protection,3,no_legislation,17/02/2026
+BJ,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+BJ,Cybercrime,cybercrime,1,legislation,17/02/2026
+BJ,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+BJ,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+BJ,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+BN,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+BN,Cybercrime,cybercrime,1,legislation,17/02/2026
+BN,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+BN,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+BN,Privacy and Data Protection,privacy_and_data_protection,3,no_legislation,17/02/2026
+BO,Consumer Protection,consumer_protection,3,no_legislation,17/02/2026
+BO,Cybercrime,cybercrime,3,no_legislation,17/02/2026
+BO,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+BO,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+BO,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+BR,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+BR,Cybercrime,cybercrime,1,legislation,17/02/2026
+BR,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+BR,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+BR,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+BS,Consumer Protection,consumer_protection,2,draft_legislation,17/02/2026
+BS,Cybercrime,cybercrime,1,legislation,17/02/2026
+BS,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+BS,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+BS,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+BT,Consumer Protection,consumer_protection,0,no_data,17/02/2026
+BT,Cybercrime,cybercrime,1,legislation,17/02/2026
+BT,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+BT,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+BT,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+BW,Consumer Protection,consumer_protection,0,no_data,17/02/2026
+BW,Cybercrime,cybercrime,1,legislation,17/02/2026
+BW,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+BW,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+BW,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+BY,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+BY,Cybercrime,cybercrime,1,legislation,17/02/2026
+BY,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+BY,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+BY,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+BZ,Consumer Protection,consumer_protection,0,no_data,17/02/2026
+BZ,Cybercrime,cybercrime,1,legislation,17/02/2026
+BZ,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+BZ,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+BZ,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+CA,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+CA,Cybercrime,cybercrime,1,legislation,17/02/2026
+CA,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+CA,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+CA,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+CD,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+CD,Cybercrime,cybercrime,1,legislation,17/02/2026
+CD,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+CD,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+CD,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+CF,Consumer Protection,consumer_protection,0,no_data,17/02/2026
+CF,Cybercrime,cybercrime,3,no_legislation,17/02/2026
+CF,Electronic Transactions,electronic_transactions,3,no_legislation,17/02/2026
+CF,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+CF,Privacy and Data Protection,privacy_and_data_protection,3,no_legislation,17/02/2026
+CG,Consumer Protection,consumer_protection,3,no_legislation,17/02/2026
+CG,Cybercrime,cybercrime,1,legislation,17/02/2026
+CG,Electronic Transactions,electronic_transactions,3,no_legislation,17/02/2026
+CG,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+CG,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+CH,Consumer Protection,consumer_protection,3,no_legislation,17/02/2026
+CH,Cybercrime,cybercrime,1,legislation,17/02/2026
+CH,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+CH,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+CH,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+CI,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+CI,Cybercrime,cybercrime,1,legislation,17/02/2026
+CI,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+CI,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+CI,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+CL,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+CL,Cybercrime,cybercrime,1,legislation,17/02/2026
+CL,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+CL,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+CL,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+CM,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+CM,Cybercrime,cybercrime,1,legislation,17/02/2026
+CM,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+CM,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+CM,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+CN,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+CN,Cybercrime,cybercrime,1,legislation,17/02/2026
+CN,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+CN,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+CN,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+CO,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+CO,Cybercrime,cybercrime,1,legislation,17/02/2026
+CO,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+CO,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+CO,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+CR,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+CR,Cybercrime,cybercrime,1,legislation,17/02/2026
+CR,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+CR,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+CR,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+CU,Consumer Protection,consumer_protection,3,no_legislation,17/02/2026
+CU,Cybercrime,cybercrime,1,legislation,17/02/2026
+CU,Electronic Transactions,electronic_transactions,2,draft_legislation,17/02/2026
+CU,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+CU,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+CV,Consumer Protection,consumer_protection,3,no_legislation,17/02/2026
+CV,Cybercrime,cybercrime,1,legislation,17/02/2026
+CV,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+CV,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+CV,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+CY,Consumer Protection,consumer_protection,3,no_legislation,17/02/2026
+CY,Cybercrime,cybercrime,1,legislation,17/02/2026
+CY,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+CY,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+CY,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+CZ,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+CZ,Cybercrime,cybercrime,1,legislation,17/02/2026
+CZ,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+CZ,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+CZ,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+DE,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+DE,Cybercrime,cybercrime,1,legislation,17/02/2026
+DE,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+DE,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+DE,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+DJ,Consumer Protection,consumer_protection,3,no_legislation,17/02/2026
+DJ,Cybercrime,cybercrime,1,legislation,17/02/2026
+DJ,Electronic Transactions,electronic_transactions,3,no_legislation,17/02/2026
+DJ,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+DJ,Privacy and Data Protection,privacy_and_data_protection,3,no_legislation,17/02/2026
+DK,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+DK,Cybercrime,cybercrime,1,legislation,17/02/2026
+DK,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+DK,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+DK,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+DM,Consumer Protection,consumer_protection,3,no_legislation,17/02/2026
+DM,Cybercrime,cybercrime,1,legislation,17/02/2026
+DM,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+DM,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+DM,Privacy and Data Protection,privacy_and_data_protection,3,no_legislation,17/02/2026
+DO,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+DO,Cybercrime,cybercrime,1,legislation,17/02/2026
+DO,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+DO,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+DO,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+DZ,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+DZ,Cybercrime,cybercrime,1,legislation,17/02/2026
+DZ,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+DZ,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+DZ,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+EC,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+EC,Cybercrime,cybercrime,1,legislation,17/02/2026
+EC,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+EC,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+EC,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+EE,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+EE,Cybercrime,cybercrime,1,legislation,17/02/2026
+EE,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+EE,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+EE,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+EG,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+EG,Cybercrime,cybercrime,1,legislation,17/02/2026
+EG,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+EG,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+EG,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+ER,Consumer Protection,consumer_protection,0,no_data,17/02/2026
+ER,Cybercrime,cybercrime,3,no_legislation,17/02/2026
+ER,Electronic Transactions,electronic_transactions,3,no_legislation,17/02/2026
+ER,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+ER,Privacy and Data Protection,privacy_and_data_protection,3,no_legislation,17/02/2026
+ES,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+ES,Cybercrime,cybercrime,1,legislation,17/02/2026
+ES,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+ES,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+ES,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+ET,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+ET,Cybercrime,cybercrime,1,legislation,17/02/2026
+ET,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+ET,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+ET,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+FI,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+FI,Cybercrime,cybercrime,1,legislation,17/02/2026
+FI,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+FI,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+FI,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+FJ,Consumer Protection,consumer_protection,3,no_legislation,17/02/2026
+FJ,Cybercrime,cybercrime,1,legislation,17/02/2026
+FJ,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+FJ,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+FJ,Privacy and Data Protection,privacy_and_data_protection,3,no_legislation,17/02/2026
+FM,Consumer Protection,consumer_protection,3,no_legislation,17/02/2026
+FM,Cybercrime,cybercrime,3,no_legislation,17/02/2026
+FM,Electronic Transactions,electronic_transactions,3,no_legislation,17/02/2026
+FM,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+FM,Privacy and Data Protection,privacy_and_data_protection,3,no_legislation,17/02/2026
+FR,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+FR,Cybercrime,cybercrime,1,legislation,17/02/2026
+FR,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+FR,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+FR,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+GA,Consumer Protection,consumer_protection,3,no_legislation,17/02/2026
+GA,Cybercrime,cybercrime,1,legislation,17/02/2026
+GA,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+GA,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+GA,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+GB,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+GB,Cybercrime,cybercrime,1,legislation,17/02/2026
+GB,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+GB,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+GB,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+GD,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+GD,Cybercrime,cybercrime,1,legislation,17/02/2026
+GD,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+GD,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+GD,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+GE,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+GE,Cybercrime,cybercrime,1,legislation,17/02/2026
+GE,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+GE,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+GE,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+GH,Consumer Protection,consumer_protection,3,no_legislation,17/02/2026
+GH,Cybercrime,cybercrime,1,legislation,17/02/2026
+GH,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+GH,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+GH,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+GM,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+GM,Cybercrime,cybercrime,1,legislation,17/02/2026
+GM,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+GM,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+GM,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+GN,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+GN,Cybercrime,cybercrime,1,legislation,17/02/2026
+GN,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+GN,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+GN,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+GQ,Consumer Protection,consumer_protection,3,no_legislation,17/02/2026
+GQ,Cybercrime,cybercrime,3,no_legislation,17/02/2026
+GQ,Electronic Transactions,electronic_transactions,3,no_legislation,17/02/2026
+GQ,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+GQ,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+GR,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+GR,Cybercrime,cybercrime,1,legislation,17/02/2026
+GR,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+GR,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+GR,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+GT,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+GT,Cybercrime,cybercrime,1,legislation,17/02/2026
+GT,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+GT,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+GT,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+GW,Consumer Protection,consumer_protection,3,no_legislation,17/02/2026
+GW,Cybercrime,cybercrime,3,no_legislation,17/02/2026
+GW,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+GW,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+GW,Privacy and Data Protection,privacy_and_data_protection,3,no_legislation,17/02/2026
+GY,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+GY,Cybercrime,cybercrime,1,legislation,17/02/2026
+GY,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+GY,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+GY,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+HN,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+HN,Cybercrime,cybercrime,1,legislation,17/02/2026
+HN,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+HN,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+HN,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+HR,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+HR,Cybercrime,cybercrime,1,legislation,17/02/2026
+HR,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+HR,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+HR,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+HT,Consumer Protection,consumer_protection,3,no_legislation,17/02/2026
+HT,Cybercrime,cybercrime,3,no_legislation,17/02/2026
+HT,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+HT,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+HT,Privacy and Data Protection,privacy_and_data_protection,3,no_legislation,17/02/2026
+HU,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+HU,Cybercrime,cybercrime,1,legislation,17/02/2026
+HU,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+HU,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+HU,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+ID,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+ID,Cybercrime,cybercrime,1,legislation,17/02/2026
+ID,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+ID,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+ID,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+IE,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+IE,Cybercrime,cybercrime,1,legislation,17/02/2026
+IE,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+IE,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+IE,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+IL,Consumer Protection,consumer_protection,3,no_legislation,17/02/2026
+IL,Cybercrime,cybercrime,1,legislation,17/02/2026
+IL,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+IL,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+IL,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+IN,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+IN,Cybercrime,cybercrime,1,legislation,17/02/2026
+IN,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+IN,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+IN,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+IQ,Consumer Protection,consumer_protection,3,no_legislation,17/02/2026
+IQ,Cybercrime,cybercrime,2,draft_legislation,17/02/2026
+IQ,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+IQ,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+IQ,Privacy and Data Protection,privacy_and_data_protection,3,no_legislation,17/02/2026
+IR,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+IR,Cybercrime,cybercrime,1,legislation,17/02/2026
+IR,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+IR,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+IR,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+IS,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+IS,Cybercrime,cybercrime,1,legislation,17/02/2026
+IS,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+IS,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+IS,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+IT,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+IT,Cybercrime,cybercrime,1,legislation,17/02/2026
+IT,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+IT,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+IT,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+JM,Consumer Protection,consumer_protection,3,no_legislation,17/02/2026
+JM,Cybercrime,cybercrime,1,legislation,17/02/2026
+JM,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+JM,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+JM,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+JO,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+JO,Cybercrime,cybercrime,1,legislation,17/02/2026
+JO,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+JO,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+JO,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+JP,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+JP,Cybercrime,cybercrime,1,legislation,17/02/2026
+JP,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+JP,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+JP,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+KE,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+KE,Cybercrime,cybercrime,1,legislation,17/02/2026
+KE,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+KE,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+KE,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+KG,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+KG,Cybercrime,cybercrime,1,legislation,17/02/2026
+KG,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+KG,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+KG,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+KH,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+KH,Cybercrime,cybercrime,2,draft_legislation,17/02/2026
+KH,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+KH,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+KH,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+KI,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+KI,Cybercrime,cybercrime,1,legislation,17/02/2026
+KI,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+KI,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+KI,Privacy and Data Protection,privacy_and_data_protection,3,no_legislation,17/02/2026
+KM,Consumer Protection,consumer_protection,3,no_legislation,17/02/2026
+KM,Cybercrime,cybercrime,3,no_legislation,17/02/2026
+KM,Electronic Transactions,electronic_transactions,3,no_legislation,17/02/2026
+KM,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+KM,Privacy and Data Protection,privacy_and_data_protection,3,no_legislation,17/02/2026
+KN,Consumer Protection,consumer_protection,2,draft_legislation,17/02/2026
+KN,Cybercrime,cybercrime,1,legislation,17/02/2026
+KN,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+KN,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+KN,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+KP,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+KP,Cybercrime,cybercrime,1,legislation,17/02/2026
+KP,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+KP,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+KP,Privacy and Data Protection,privacy_and_data_protection,0,no_data,17/02/2026
+KR,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+KR,Cybercrime,cybercrime,1,legislation,17/02/2026
+KR,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+KR,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+KR,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+KW,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+KW,Cybercrime,cybercrime,1,legislation,17/02/2026
+KW,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+KW,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+KW,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+KZ,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+KZ,Cybercrime,cybercrime,1,legislation,17/02/2026
+KZ,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+KZ,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+KZ,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+LA,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+LA,Cybercrime,cybercrime,1,legislation,17/02/2026
+LA,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+LA,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+LA,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+LB,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+LB,Cybercrime,cybercrime,1,legislation,17/02/2026
+LB,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+LB,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+LB,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+LC,Consumer Protection,consumer_protection,3,no_legislation,17/02/2026
+LC,Cybercrime,cybercrime,1,legislation,17/02/2026
+LC,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+LC,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+LC,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+LI,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+LI,Cybercrime,cybercrime,1,legislation,17/02/2026
+LI,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+LI,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+LI,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+LK,Consumer Protection,consumer_protection,3,no_legislation,17/02/2026
+LK,Cybercrime,cybercrime,1,legislation,17/02/2026
+LK,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+LK,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+LK,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+LR,Consumer Protection,consumer_protection,0,no_data,17/02/2026
+LR,Cybercrime,cybercrime,2,draft_legislation,17/02/2026
+LR,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+LR,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+LR,Privacy and Data Protection,privacy_and_data_protection,3,no_legislation,17/02/2026
+LS,Consumer Protection,consumer_protection,3,no_legislation,17/02/2026
+LS,Cybercrime,cybercrime,1,legislation,17/02/2026
+LS,Electronic Transactions,electronic_transactions,2,draft_legislation,17/02/2026
+LS,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+LS,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+LT,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+LT,Cybercrime,cybercrime,1,legislation,17/02/2026
+LT,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+LT,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+LT,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+LU,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+LU,Cybercrime,cybercrime,1,legislation,17/02/2026
+LU,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+LU,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+LU,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+LV,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+LV,Cybercrime,cybercrime,1,legislation,17/02/2026
+LV,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+LV,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+LV,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+LY,Consumer Protection,consumer_protection,3,no_legislation,17/02/2026
+LY,Cybercrime,cybercrime,1,legislation,17/02/2026
+LY,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+LY,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+LY,Privacy and Data Protection,privacy_and_data_protection,3,no_legislation,17/02/2026
+MA,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+MA,Cybercrime,cybercrime,1,legislation,17/02/2026
+MA,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+MA,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+MA,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+MC,Consumer Protection,consumer_protection,3,no_legislation,17/02/2026
+MC,Cybercrime,cybercrime,1,legislation,17/02/2026
+MC,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+MC,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+MC,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+MD,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+MD,Cybercrime,cybercrime,1,legislation,17/02/2026
+MD,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+MD,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+MD,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+ME,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+ME,Cybercrime,cybercrime,1,legislation,17/02/2026
+ME,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+ME,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+ME,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+MG,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+MG,Cybercrime,cybercrime,1,legislation,17/02/2026
+MG,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+MG,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+MG,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+MH,Consumer Protection,consumer_protection,0,no_data,17/02/2026
+MH,Cybercrime,cybercrime,3,no_legislation,17/02/2026
+MH,Electronic Transactions,electronic_transactions,3,no_legislation,17/02/2026
+MH,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+MH,Privacy and Data Protection,privacy_and_data_protection,3,no_legislation,17/02/2026
+MK,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+MK,Cybercrime,cybercrime,1,legislation,17/02/2026
+MK,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+MK,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+MK,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+ML,Consumer Protection,consumer_protection,3,no_legislation,17/02/2026
+ML,Cybercrime,cybercrime,1,legislation,17/02/2026
+ML,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+ML,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+ML,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+MM,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+MM,Cybercrime,cybercrime,2,draft_legislation,17/02/2026
+MM,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+MM,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+MM,Privacy and Data Protection,privacy_and_data_protection,3,no_legislation,17/02/2026
+MN,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+MN,Cybercrime,cybercrime,1,legislation,17/02/2026
+MN,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+MN,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+MN,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+MR,Consumer Protection,consumer_protection,0,no_data,17/02/2026
+MR,Cybercrime,cybercrime,1,legislation,17/02/2026
+MR,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+MR,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+MR,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+MT,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+MT,Cybercrime,cybercrime,1,legislation,17/02/2026
+MT,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+MT,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+MT,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+MU,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+MU,Cybercrime,cybercrime,1,legislation,17/02/2026
+MU,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+MU,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+MU,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+MV,Consumer Protection,consumer_protection,3,no_legislation,17/02/2026
+MV,Cybercrime,cybercrime,1,legislation,17/02/2026
+MV,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+MV,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+MV,Privacy and Data Protection,privacy_and_data_protection,2,draft_legislation,17/02/2026
+MW,Consumer Protection,consumer_protection,3,no_legislation,17/02/2026
+MW,Cybercrime,cybercrime,1,legislation,17/02/2026
+MW,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+MW,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+MW,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+MX,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+MX,Cybercrime,cybercrime,1,legislation,17/02/2026
+MX,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+MX,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+MX,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+MY,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+MY,Cybercrime,cybercrime,1,legislation,17/02/2026
+MY,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+MY,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+MY,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+MZ,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+MZ,Cybercrime,cybercrime,1,legislation,17/02/2026
+MZ,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+MZ,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+MZ,Privacy and Data Protection,privacy_and_data_protection,3,no_legislation,17/02/2026
+NA,Consumer Protection,consumer_protection,3,no_legislation,17/02/2026
+NA,Cybercrime,cybercrime,2,draft_legislation,17/02/2026
+NA,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+NA,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+NA,Privacy and Data Protection,privacy_and_data_protection,2,draft_legislation,17/02/2026
+NE,Consumer Protection,consumer_protection,3,no_legislation,17/02/2026
+NE,Cybercrime,cybercrime,1,legislation,17/02/2026
+NE,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+NE,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+NE,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+NG,Consumer Protection,consumer_protection,3,no_legislation,17/02/2026
+NG,Cybercrime,cybercrime,1,legislation,17/02/2026
+NG,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+NG,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+NG,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+NI,Consumer Protection,consumer_protection,3,no_legislation,17/02/2026
+NI,Cybercrime,cybercrime,1,legislation,17/02/2026
+NI,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+NI,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+NI,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+NL,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+NL,Cybercrime,cybercrime,1,legislation,17/02/2026
+NL,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+NL,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+NL,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+NO,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+NO,Cybercrime,cybercrime,1,legislation,17/02/2026
+NO,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+NO,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+NO,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+NP,Consumer Protection,consumer_protection,2,draft_legislation,17/02/2026
+NP,Cybercrime,cybercrime,1,legislation,17/02/2026
+NP,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+NP,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+NP,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+NR,Consumer Protection,consumer_protection,3,no_legislation,17/02/2026
+NR,Cybercrime,cybercrime,1,legislation,17/02/2026
+NR,Electronic Transactions,electronic_transactions,3,no_legislation,17/02/2026
+NR,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+NR,Privacy and Data Protection,privacy_and_data_protection,3,no_legislation,17/02/2026
+NZ,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+NZ,Cybercrime,cybercrime,1,legislation,17/02/2026
+NZ,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+NZ,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+NZ,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+OM,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+OM,Cybercrime,cybercrime,1,legislation,17/02/2026
+OM,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+OM,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+OM,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+PA,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+PA,Cybercrime,cybercrime,1,legislation,17/02/2026
+PA,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+PA,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+PA,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+PE,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+PE,Cybercrime,cybercrime,1,legislation,17/02/2026
+PE,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+PE,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+PE,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+PG,Consumer Protection,consumer_protection,3,no_legislation,17/02/2026
+PG,Cybercrime,cybercrime,1,legislation,17/02/2026
+PG,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+PG,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+PG,Privacy and Data Protection,privacy_and_data_protection,3,no_legislation,17/02/2026
+PH,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+PH,Cybercrime,cybercrime,1,legislation,17/02/2026
+PH,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+PH,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+PH,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+PK,Consumer Protection,consumer_protection,3,no_legislation,17/02/2026
+PK,Cybercrime,cybercrime,1,legislation,17/02/2026
+PK,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+PK,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+PK,Privacy and Data Protection,privacy_and_data_protection,2,draft_legislation,17/02/2026
+PL,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+PL,Cybercrime,cybercrime,1,legislation,17/02/2026
+PL,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+PL,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+PL,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+PS,Consumer Protection,consumer_protection,3,no_legislation,17/02/2026
+PS,Cybercrime,cybercrime,3,no_legislation,17/02/2026
+PS,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+PS,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+PS,Privacy and Data Protection,privacy_and_data_protection,3,no_legislation,17/02/2026
+PT,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+PT,Cybercrime,cybercrime,1,legislation,17/02/2026
+PT,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+PT,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+PT,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+PW,Consumer Protection,consumer_protection,3,no_legislation,17/02/2026
+PW,Cybercrime,cybercrime,1,legislation,17/02/2026
+PW,Electronic Transactions,electronic_transactions,3,no_legislation,17/02/2026
+PW,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+PW,Privacy and Data Protection,privacy_and_data_protection,3,no_legislation,17/02/2026
+PY,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+PY,Cybercrime,cybercrime,1,legislation,17/02/2026
+PY,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+PY,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+PY,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+QA,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+QA,Cybercrime,cybercrime,1,legislation,17/02/2026
+QA,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+QA,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+QA,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+RO,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+RO,Cybercrime,cybercrime,1,legislation,17/02/2026
+RO,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+RO,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+RO,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+RS,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+RS,Cybercrime,cybercrime,1,legislation,17/02/2026
+RS,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+RS,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+RS,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+RU,Consumer Protection,consumer_protection,3,no_legislation,17/02/2026
+RU,Cybercrime,cybercrime,1,legislation,17/02/2026
+RU,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+RU,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+RU,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+RW,Consumer Protection,consumer_protection,3,no_legislation,17/02/2026
+RW,Cybercrime,cybercrime,1,legislation,17/02/2026
+RW,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+RW,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+RW,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+SA,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+SA,Cybercrime,cybercrime,1,legislation,17/02/2026
+SA,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+SA,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+SA,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+SB,Consumer Protection,consumer_protection,3,no_legislation,17/02/2026
+SB,Cybercrime,cybercrime,3,no_legislation,17/02/2026
+SB,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+SB,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+SB,Privacy and Data Protection,privacy_and_data_protection,3,no_legislation,17/02/2026
+SC,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+SC,Cybercrime,cybercrime,1,legislation,17/02/2026
+SC,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+SC,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+SC,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+SD,Consumer Protection,consumer_protection,3,no_legislation,17/02/2026
+SD,Cybercrime,cybercrime,1,legislation,17/02/2026
+SD,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+SD,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+SD,Privacy and Data Protection,privacy_and_data_protection,3,no_legislation,17/02/2026
+SE,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+SE,Cybercrime,cybercrime,1,legislation,17/02/2026
+SE,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+SE,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+SE,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+SG,Consumer Protection,consumer_protection,3,no_legislation,17/02/2026
+SG,Cybercrime,cybercrime,1,legislation,17/02/2026
+SG,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+SG,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+SG,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+SI,Consumer Protection,consumer_protection,3,no_legislation,17/02/2026
+SI,Cybercrime,cybercrime,1,legislation,17/02/2026
+SI,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+SI,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+SI,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+SK,Consumer Protection,consumer_protection,3,no_legislation,17/02/2026
+SK,Cybercrime,cybercrime,1,legislation,17/02/2026
+SK,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+SK,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+SK,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+SL,Consumer Protection,consumer_protection,3,no_legislation,17/02/2026
+SL,Cybercrime,cybercrime,1,legislation,17/02/2026
+SL,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+SL,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+SL,Privacy and Data Protection,privacy_and_data_protection,3,no_legislation,17/02/2026
+SM,Consumer Protection,consumer_protection,0,no_data,17/02/2026
+SM,Cybercrime,cybercrime,1,legislation,17/02/2026
+SM,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+SM,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+SM,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+SN,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+SN,Cybercrime,cybercrime,1,legislation,17/02/2026
+SN,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+SN,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+SN,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+SO,Consumer Protection,consumer_protection,3,no_legislation,17/02/2026
+SO,Cybercrime,cybercrime,3,no_legislation,17/02/2026
+SO,Electronic Transactions,electronic_transactions,3,no_legislation,17/02/2026
+SO,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+SO,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+SR,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+SR,Cybercrime,cybercrime,1,legislation,17/02/2026
+SR,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+SR,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+SR,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+SS,Consumer Protection,consumer_protection,3,no_legislation,17/02/2026
+SS,Cybercrime,cybercrime,1,legislation,17/02/2026
+SS,Electronic Transactions,electronic_transactions,3,no_legislation,17/02/2026
+SS,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+SS,Privacy and Data Protection,privacy_and_data_protection,3,no_legislation,17/02/2026
+ST,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+ST,Cybercrime,cybercrime,1,legislation,17/02/2026
+ST,Electronic Transactions,electronic_transactions,3,no_legislation,17/02/2026
+ST,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+ST,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+SV,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+SV,Cybercrime,cybercrime,1,legislation,17/02/2026
+SV,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+SV,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+SV,Privacy and Data Protection,privacy_and_data_protection,2,draft_legislation,17/02/2026
+SY,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+SY,Cybercrime,cybercrime,1,legislation,17/02/2026
+SY,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+SY,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+SY,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+SZ,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+SZ,Cybercrime,cybercrime,1,legislation,17/02/2026
+SZ,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+SZ,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+SZ,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+TD,Consumer Protection,consumer_protection,0,no_data,17/02/2026
+TD,Cybercrime,cybercrime,1,legislation,17/02/2026
+TD,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+TD,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+TD,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+TG,Consumer Protection,consumer_protection,0,no_data,17/02/2026
+TG,Cybercrime,cybercrime,1,legislation,17/02/2026
+TG,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+TG,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+TG,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+TH,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+TH,Cybercrime,cybercrime,1,legislation,17/02/2026
+TH,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+TH,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+TH,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+TJ,Consumer Protection,consumer_protection,0,no_data,17/02/2026
+TJ,Cybercrime,cybercrime,1,legislation,17/02/2026
+TJ,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+TJ,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+TJ,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+TL,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+TL,Cybercrime,cybercrime,1,legislation,17/02/2026
+TL,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+TL,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+TL,Privacy and Data Protection,privacy_and_data_protection,3,no_legislation,17/02/2026
+TM,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+TM,Cybercrime,cybercrime,1,legislation,17/02/2026
+TM,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+TM,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+TM,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+TN,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+TN,Cybercrime,cybercrime,1,legislation,17/02/2026
+TN,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+TN,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+TN,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+TO,Consumer Protection,consumer_protection,0,no_data,17/02/2026
+TO,Cybercrime,cybercrime,1,legislation,17/02/2026
+TO,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+TO,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+TO,Privacy and Data Protection,privacy_and_data_protection,3,no_legislation,17/02/2026
+TR,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+TR,Cybercrime,cybercrime,1,legislation,17/02/2026
+TR,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+TR,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+TR,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+TT,Consumer Protection,consumer_protection,0,no_data,17/02/2026
+TT,Cybercrime,cybercrime,1,legislation,17/02/2026
+TT,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+TT,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+TT,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+TV,Consumer Protection,consumer_protection,3,no_legislation,17/02/2026
+TV,Cybercrime,cybercrime,3,no_legislation,17/02/2026
+TV,Electronic Transactions,electronic_transactions,3,no_legislation,17/02/2026
+TV,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+TV,Privacy and Data Protection,privacy_and_data_protection,3,no_legislation,17/02/2026
+TZ,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+TZ,Cybercrime,cybercrime,1,legislation,17/02/2026
+TZ,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+TZ,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+TZ,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+UA,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+UA,Cybercrime,cybercrime,1,legislation,17/02/2026
+UA,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+UA,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+UA,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+UG,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+UG,Cybercrime,cybercrime,1,legislation,17/02/2026
+UG,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+UG,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+UG,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+US,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+US,Cybercrime,cybercrime,1,legislation,17/02/2026
+US,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+US,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+US,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+UY,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+UY,Cybercrime,cybercrime,1,legislation,17/02/2026
+UY,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+UY,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+UY,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+UZ,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+UZ,Cybercrime,cybercrime,1,legislation,17/02/2026
+UZ,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+UZ,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+UZ,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+VA,Consumer Protection,consumer_protection,0,no_data,17/02/2026
+VA,Cybercrime,cybercrime,0,no_data,17/02/2026
+VA,Electronic Transactions,electronic_transactions,0,no_data,17/02/2026
+VA,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+VA,Privacy and Data Protection,privacy_and_data_protection,0,no_data,17/02/2026
+VC,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+VC,Cybercrime,cybercrime,1,legislation,17/02/2026
+VC,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+VC,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+VC,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+VE,Consumer Protection,consumer_protection,0,no_data,17/02/2026
+VE,Cybercrime,cybercrime,1,legislation,17/02/2026
+VE,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+VE,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+VE,Privacy and Data Protection,privacy_and_data_protection,3,no_legislation,17/02/2026
+VN,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+VN,Cybercrime,cybercrime,1,legislation,17/02/2026
+VN,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+VN,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+VN,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+VU,Consumer Protection,consumer_protection,0,no_data,17/02/2026
+VU,Cybercrime,cybercrime,1,legislation,17/02/2026
+VU,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+VU,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+VU,Privacy and Data Protection,privacy_and_data_protection,3,no_legislation,17/02/2026
+WS,Consumer Protection,consumer_protection,3,no_legislation,17/02/2026
+WS,Cybercrime,cybercrime,1,legislation,17/02/2026
+WS,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+WS,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+WS,Privacy and Data Protection,privacy_and_data_protection,3,no_legislation,17/02/2026
+YE,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+YE,Cybercrime,cybercrime,3,no_legislation,17/02/2026
+YE,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+YE,Indirect Taxation,indirect_taxation,3,no_legislation,17/02/2026
+YE,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+ZA,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+ZA,Cybercrime,cybercrime,1,legislation,17/02/2026
+ZA,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+ZA,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+ZA,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+ZM,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+ZM,Cybercrime,cybercrime,1,legislation,17/02/2026
+ZM,Electronic Transactions,electronic_transactions,1,legislation,17/02/2026
+ZM,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+ZM,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
+ZW,Consumer Protection,consumer_protection,1,legislation,17/02/2026
+ZW,Cybercrime,cybercrime,1,legislation,17/02/2026
+ZW,Electronic Transactions,electronic_transactions,2,draft_legislation,17/02/2026
+ZW,Indirect Taxation,indirect_taxation,1,legislation,17/02/2026
+ZW,Privacy and Data Protection,privacy_and_data_protection,1,legislation,17/02/2026
