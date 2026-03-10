@@ -1,0 +1,32 @@
+# Descriptive Output Index
+
+- **table_m1_dataset_overview.csv** | Table M1. Dataset overview and merge coverage | Sample: Panel + variants + patent-level | Variables: Obs/country/year coverage | Interpretation: Shows where analysis sample narrows.
+- **table_m1_dataset_overview.tex** | Table M1. Dataset overview and merge coverage (LaTeX) | Sample: Same as M1 | Variables: Same as M1 | Interpretation: Paper-ready table.
+- **table_m2_key_summary_stats.csv** | Table M2. Key summary statistics | Sample: Country-year benchmark | Variables: Outcomes/policy/controls | Interpretation: Core distributional facts for the paper.
+- **table_m2_key_summary_stats.tex** | Table M2. Key summary statistics (LaTeX) | Sample: Same as M2 | Variables: Same as M2 | Interpretation: Paper-ready table.
+- **table_m3_top_country_contributors.csv** | Table M3. Top country contributors | Sample: Country totals over benchmark years | Variables: Levels + intensity | Interpretation: Separates scale from specialization.
+- **table_m3_top_country_contributors.tex** | Table M3. Top country contributors (LaTeX) | Sample: Same as M3 | Variables: Same as M3 | Interpretation: Paper-ready table.
+- **table_a1_within_between_variance.csv** | Table A1. Within-between variance decomposition | Sample: Country-year benchmark | Variables: Outcomes + policy | Interpretation: Panel identifying variation check.
+- **table_a1_within_between_variance.tex** | Table A1. Within-between variance decomposition (LaTeX) | Sample: Same as A1 | Variables: Same as A1 | Interpretation: Paper-ready table.
+- **table_a3_claims_quality_proxy.csv** | Table A3. Claims-based quality proxy | Sample: Patent-level non-missing claims | Variables: Claims moments by benchmark flag | Interpretation: Limited quality lens when citation data are absent.
+- **table_a3_claims_quality_proxy.tex** | Table A3. Claims-based quality proxy (LaTeX) | Sample: Same as A3 | Variables: Same as A3 | Interpretation: Paper-ready table.
+- **table_a4_validation_examples.csv** | Table A4. Validation patent examples | Sample: Patent-level diagnostics | Variables: Top/bottom/ambiguous patents | Interpretation: Human-readable sanity check.
+- **table_a4_validation_examples.tex** | Table A4. Validation patent examples (LaTeX) | Sample: Same as A4 | Variables: Same as A4 | Interpretation: Paper-ready table.
+- **table_a5_method_comparison.csv** | Table A5. Candidate method comparison | Sample: Weak-label holdout | Variables: AUC/F1/threshold | Interpretation: Documents benchmark choice.
+- **table_a5_method_comparison.tex** | Table A5. Candidate method comparison (LaTeX) | Sample: Same as A5 | Variables: Same as A5 | Interpretation: Paper-ready table.
+- **figure_m1_global_trends.png** | Figure M1. Global trends | Sample: Benchmark country-year aggregated to year | Variables: Total/data patents and share | Interpretation: Core trend fact.
+- **figure_m1_global_trends.pdf** | Figure M1. Global trends (PDF) | Sample: Same as M1 | Variables: Same as M1 | Interpretation: Vector format.
+- **figure_m2_country_concentration.png** | Figure M2. Country concentration | Sample: Country totals over benchmark years | Variables: Cumulative shares | Interpretation: Concentration and skewness.
+- **figure_m2_country_concentration.pdf** | Figure M2. Country concentration (PDF) | Sample: Same as M2 | Variables: Same as M2 | Interpretation: Vector format.
+- **figure_m3_levels_vs_intensity.png** | Figure M3. Levels vs intensity | Sample: Country totals/means | Variables: Total counts and shares | Interpretation: Scale vs intensity contrast.
+- **figure_m3_levels_vs_intensity.pdf** | Figure M3. Levels vs intensity (PDF) | Sample: Same as M3 | Variables: Same as M3 | Interpretation: Vector format.
+- **figure_m4_income_group_heterogeneity.png** | Figure M4. Income-group heterogeneity | Sample: Benchmark sample with income groups | Variables: Shares and per-capita intensity | Interpretation: Cross-development differences.
+- **figure_m4_income_group_heterogeneity.pdf** | Figure M4. Income-group heterogeneity (PDF) | Sample: Same as M4 | Variables: Same as M4 | Interpretation: Vector format.
+- **figure_m5_technology_composition.png** | Figure M5. Technology composition | Sample: Patent-level with CPC flags | Variables: Counts and shares by CPC group | Interpretation: Shows concept extends beyond generic digital classes.
+- **figure_m5_technology_composition.pdf** | Figure M5. Technology composition (PDF) | Sample: Same as M5 | Variables: Same as M5 | Interpretation: Vector format.
+- **figure_m6_regulation_gradients.png** | Figure M6. Regulation gradients | Sample: Benchmark sample (ECIPE overlap for right panel) | Variables: Share vs data.gouv and ECIPE | Interpretation: Motivates policy-side empirical design.
+- **figure_m6_regulation_gradients.pdf** | Figure M6. Regulation gradients (PDF) | Sample: Same as M6 | Variables: Same as M6 | Interpretation: Vector format.
+- **figure_a1_assignee_vs_inventor.png** | Figure A1. Assignee vs inventor comparison | Sample: Overlap of app-year variants | Variables: Country-year shares | Interpretation: Assesses benchmark assignment choice.
+- **figure_a1_assignee_vs_inventor.pdf** | Figure A1. Assignee vs inventor comparison (PDF) | Sample: Same as A1 | Variables: Same as A1 | Interpretation: Vector format.
+- **figure_a2_validation_score_distribution.png** | Figure A2. Validation score distributions | Sample: Patent-level sample | Variables: Benchmark score by patent-type subsets | Interpretation: Checks benchmark is not just generic digital language.
+- **figure_a2_validation_score_distribution.pdf** | Figure A2. Validation score distributions (PDF) | Sample: Same as A2 | Variables: Same as A2 | Interpretation: Vector format.

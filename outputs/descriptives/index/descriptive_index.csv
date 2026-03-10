@@ -1,0 +1,31 @@
+Section,Filename,Title,Sample,Variables,Interpretation
+Main-paper candidates,table_m1_dataset_overview.csv,Table M1. Dataset overview and merge coverage,Panel + variants + patent-level,Obs/country/year coverage,Shows where analysis sample narrows.
+Main-paper candidates,table_m1_dataset_overview.tex,Table M1. Dataset overview and merge coverage (LaTeX),Same as M1,Same as M1,Paper-ready table.
+Main-paper candidates,table_m2_key_summary_stats.csv,Table M2. Key summary statistics,Country-year benchmark,Outcomes/policy/controls,Core distributional facts for the paper.
+Main-paper candidates,table_m2_key_summary_stats.tex,Table M2. Key summary statistics (LaTeX),Same as M2,Same as M2,Paper-ready table.
+Main-paper candidates,table_m3_top_country_contributors.csv,Table M3. Top country contributors,Country totals over benchmark years,Levels + intensity,Separates scale from specialization.
+Main-paper candidates,table_m3_top_country_contributors.tex,Table M3. Top country contributors (LaTeX),Same as M3,Same as M3,Paper-ready table.
+Appendix descriptives,table_a1_within_between_variance.csv,Table A1. Within-between variance decomposition,Country-year benchmark,Outcomes + policy,Panel identifying variation check.
+Appendix descriptives,table_a1_within_between_variance.tex,Table A1. Within-between variance decomposition (LaTeX),Same as A1,Same as A1,Paper-ready table.
+Appendix descriptives,table_a3_claims_quality_proxy.csv,Table A3. Claims-based quality proxy,Patent-level non-missing claims,Claims moments by benchmark flag,Limited quality lens when citation data are absent.
+Appendix descriptives,table_a3_claims_quality_proxy.tex,Table A3. Claims-based quality proxy (LaTeX),Same as A3,Same as A3,Paper-ready table.
+Appendix descriptives,table_a4_validation_examples.csv,Table A4. Validation patent examples,Patent-level diagnostics,Top/bottom/ambiguous patents,Human-readable sanity check.
+Appendix descriptives,table_a4_validation_examples.tex,Table A4. Validation patent examples (LaTeX),Same as A4,Same as A4,Paper-ready table.
+Appendix descriptives,table_a5_method_comparison.csv,Table A5. Candidate method comparison,Weak-label holdout,AUC/F1/threshold,Documents benchmark choice.
+Appendix descriptives,table_a5_method_comparison.tex,Table A5. Candidate method comparison (LaTeX),Same as A5,Same as A5,Paper-ready table.
+Main-paper candidates,figure_m1_global_trends.png,Figure M1. Global trends,Benchmark country-year aggregated to year,Total/data patents and share,Core trend fact.
+Main-paper candidates,figure_m1_global_trends.pdf,Figure M1. Global trends (PDF),Same as M1,Same as M1,Vector format.
+Main-paper candidates,figure_m2_country_concentration.png,Figure M2. Country concentration,Country totals over benchmark years,Cumulative shares,Concentration and skewness.
+Main-paper candidates,figure_m2_country_concentration.pdf,Figure M2. Country concentration (PDF),Same as M2,Same as M2,Vector format.
+Main-paper candidates,figure_m3_levels_vs_intensity.png,Figure M3. Levels vs intensity,Country totals/means,Total counts and shares,Scale vs intensity contrast.
+Main-paper candidates,figure_m3_levels_vs_intensity.pdf,Figure M3. Levels vs intensity (PDF),Same as M3,Same as M3,Vector format.
+Main-paper candidates,figure_m4_income_group_heterogeneity.png,Figure M4. Income-group heterogeneity,Benchmark sample with income groups,Shares and per-capita intensity,Cross-development differences.
+Main-paper candidates,figure_m4_income_group_heterogeneity.pdf,Figure M4. Income-group heterogeneity (PDF),Same as M4,Same as M4,Vector format.
+Main-paper candidates,figure_m5_technology_composition.png,Figure M5. Technology composition,Patent-level with CPC flags,Counts and shares by CPC group,Shows concept extends beyond generic digital classes.
+Main-paper candidates,figure_m5_technology_composition.pdf,Figure M5. Technology composition (PDF),Same as M5,Same as M5,Vector format.
+Main-paper candidates,figure_m6_regulation_gradients.png,Figure M6. Regulation gradients,Benchmark sample (ECIPE overlap for right panel),Share vs data.gouv and ECIPE,Motivates policy-side empirical design.
+Main-paper candidates,figure_m6_regulation_gradients.pdf,Figure M6. Regulation gradients (PDF),Same as M6,Same as M6,Vector format.
+Appendix descriptives,figure_a1_assignee_vs_inventor.png,Figure A1. Assignee vs inventor comparison,Overlap of app-year variants,Country-year shares,Assesses benchmark assignment choice.
+Appendix descriptives,figure_a1_assignee_vs_inventor.pdf,Figure A1. Assignee vs inventor comparison (PDF),Same as A1,Same as A1,Vector format.
+Appendix descriptives,figure_a2_validation_score_distribution.png,Figure A2. Validation score distributions,Patent-level sample,Benchmark score by patent-type subsets,Checks benchmark is not just generic digital language.
+Appendix descriptives,figure_a2_validation_score_distribution.pdf,Figure A2. Validation score distributions (PDF),Same as A2,Same as A2,Vector format.

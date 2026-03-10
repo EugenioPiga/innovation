@@ -1,0 +1,3 @@
+group_name,n_patents,mean_claims,median_claims,top_claim_decile_share
+Data/evidence patent (flag=1),766509,15.847,15.0,0.1
+Other patent (flag=0),2222525,15.909,15.0,0.108
