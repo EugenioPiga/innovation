@@ -1,0 +1,7 @@
+variable,mean,sd,p10,p50,p90
+benchmark_score,0.157,0.312,0.001,0.004,0.844
+science_reference_share,,,,,
+ln_forward_citation_count_10y_plus1,0.0,0.0,0.0,0.0,0.0
+citing_cpc4_count_10y,0.0,0.0,0.0,0.0,0.0
+years_ahead_of_cpc_intro,0.0,0.0,0.0,0.0,0.0
+is_publicly_funded,0.008,0.088,0.0,0.0,0.0

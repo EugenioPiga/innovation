@@ -17,3 +17,4 @@ datasets/patent_evidence/output/patent_backbone.parquet
 datasets/patent_evidence/output/patent_evidence_patent_level.csv.gz
 datasets/patent_evidence/output/models/
 datasets/patent_evidence/output/scoring_run.log
+datasets/dyevre_empirical/intermediate/

@@ -1,0 +1,15 @@
+paper_variable,constructed_variable,status,notes
+Patent is publicly-funded,is_publicly_funded,Exact,Directly from PatentsView government-interest statements.
+Share of citations directed to scientific papers,science_reference_share,Approximation,Heuristic classification on non-patent references (DOI/journal patterns).
+Log number of independent claims,ln_num_claims_plus1,Approximation,"PatentsView has total claims in this pipeline, not independent-claim flags."
+Probability of opening a new technological class,opens_new_cpc_field_flag,Approximation,CPC-based analogue: patent uses subclass whose at-issue introduction year is later than filing year.
+Years ahead of creation of patent class,years_ahead_of_cpc_intro,Approximation,CPC-based analogue to USPC timing measure.
+Log forward citations,ln_forward_citation_count_10y_plus1,Exact,From PatentsView US patent citations and filing-year windows.
+Count of classes citing focal patent,citing_cpc4_count_10y / citing_cpc_subclass_count_10y,Approximation,Computed with CPC classes of citing patents over a 10-year window.
+Share of citations from small firms (<500 employees),small_firm_citation_share_10y_linked,Approximation,Computed on subset of citing patents linked to Compustat firms with observed employment.
+Inventor productivity,inventor_productivity_mean_prior_count,Approximation,Prior patent counts by inventor within observed patent universe.
+Assignee productivity,assignee_productivity_mean_prior_count,Approximation,Prior patent counts by assignee within observed patent universe.
+Wage bill of inventors,,Not available,No inventor-level wage data in current repository sources.
+Market value (firm-level),,Not available,Not present in current firm-year enriched panel.
+Cobb-Douglas / translog productivity,ln_sales_per_worker_plus1 (proxy),Approximation,"Proxy available, but full productivity estimation inputs are not all present."
+Public/private spillovers and IV instruments,,Not available,Requires historical agency-shock and examiner-level instrument construction outside current pipeline.
